@@ -79,6 +79,7 @@
   - [Crontab定时任务](BaseUsage/crontab.md)
   - [日志](BaseUsage/log.md)
   - [异常](BaseUsage/trigger.md)
+  - [自定义命令](BaseUsage/customCommand.md)
   - [单元测试](Components/phpunit.md)
   - [异步任务](Components/Component/task.md)
   - [自定义进程](Components/Component/process.md)
@@ -207,8 +208,10 @@
     - [安装及使用](Components/FashCache/fastCache.md)
 - 消息队列
   - Queue
-    - [安装](Components/Queue/install.md)
-    - [多节点](Components/Queue/nodes.md)
+    - [安装及使用](Components/Queue/queue3.x.md)
+    - Queue 2.x
+      - [安装](Components/Queue/install.md)
+      - [多节点](Components/Queue/nodes.md)
   - 分布式
     - [Kafka](Components/kafka.md)
     - [Nsq](Components/nsq.md)
